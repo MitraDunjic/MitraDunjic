@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mitra Dunjic
-- 👀 I’m interested in Software Quality Assurance
+- 👀 I’m interested in SQA
 - 🌱 I’m currently learning SQA Automation
 - 📫 How to reach me - mitra.dunjic@gmail.com
 
